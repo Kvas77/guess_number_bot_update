@@ -20,6 +20,9 @@ lexicon = {
                           'Total games played 🎯 - \n'
                           'Total wins 🏅 - \n',
 
+           '/play': "I guessed a number in the range from 1️⃣ to 1️⃣0️⃣0️⃣ \n\nWhich numbed did i choose? 🤔",
+           '/cancel': "Well, I hope to see you again!\n\n Good luck! 👋",
+
            '/reload_stat': 'Statistics have been successfully reset ✅',
            '/back': 'Well... Do you wanna play❔'
            }
